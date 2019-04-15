@@ -1,3 +1,5 @@
+print("Thank you for loading dolo.")
+
 from dolo.version import __version_info__, __version__
 
 from dolo.config import *
